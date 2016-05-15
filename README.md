@@ -1,6 +1,6 @@
 # breast-cancer-diagnosis-using-logistic-regression
 
-The purpose of this project is to natively implement a machine learning technique called logistic regression, to identify whether a given breast tissue sample is cancerous or not. 
+The purpose of this project is to **implement** a machine learning technique called logistic regression, to identify whether a given breast tissue sample is cancerous or not. 
 
 The dataset used is Breast Cancer Wisconsin (Original) Data Set and is divided into 80% training data and 20% test data. The datset itself provides the following 9 features in a normalized scale of 1 - 10 :
 - Clump Thickness
