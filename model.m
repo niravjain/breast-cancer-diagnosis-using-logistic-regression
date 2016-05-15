@@ -1,4 +1,4 @@
-%% Machine Learning Self Exercise - Logistic Regression on Wisconsin Breast Cancer Dataset
+%% Implementing Logistic Regression, on Wisconsin Breast Cancer Dataset
 
 %% Initialization
 clear ; close all; clc
