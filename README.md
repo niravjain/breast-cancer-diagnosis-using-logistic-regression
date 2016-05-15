@@ -15,9 +15,13 @@ The dataset used is Breast Cancer Wisconsin (Original) Data Set and is divided i
 
 The last column denotes whether the cell is malignant (1) or benign (0).
 
-Principal Component Analysis has been done to visualize the data, by which we can clearly determine that this is a linear classification problem (Check data.jpg)
+Principal Component Analysis has been done to visualize the data, by which we can clearly determine that this is a linear classification problem (data.jpg)
 
-Thus, using logistic regression, we get our hypothesis line for future predictions (Check hypothesis.jpg) 
+![alt tag](https://raw.githubusercontent.com/niravjain/breast-cancer-diagnosis-using-logistic-regression/master/data.jpg)
+
+Thus, using logistic regression, we get our hypothesis line for future predictions as follows (hypothesis.jpg) 
+
+![alt tag](https://raw.githubusercontent.com/niravjain/breast-cancer-diagnosis-using-logistic-regression/master/hypothesis.jpg)
 
 The accuracies achieved are as follows:
 
