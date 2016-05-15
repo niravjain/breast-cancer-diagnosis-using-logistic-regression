@@ -9,5 +9,7 @@ Principal Component Analysis has been done to visualize the data, by which we ca
 Thus, using logistic regression, we get our hypothesis line for future predictions (Check hypothesis.jpg) 
 
 The accuracies achieved are as follows:
+
 Training accuracy: 96.146789, F1 score: 0.948403
+
 Testing accuracy: 98.550725, F1 score: 0.972222
