@@ -31,7 +31,7 @@ Training accuracy: 96.146789, F1 score: 0.948403
 
 ## Installation
 
-The code is written in MTALAB 9.0.0.341360 (R2016a). The program to run is *model.m*, which will run step by step. The console output explains what is done in each step.
+The code is written in MATLAB 9.0.0.341360 (R2016a). The program to run is *model.m*, which will run step by step. The console output explains what is done in each step.
 
 ## Author
 Nirav Jain *niravr7@gmail.com*
